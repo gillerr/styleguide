@@ -18,3 +18,4 @@ disclaimer:
 global-search:
   title: Suche
   nothing-found: Nichts gefunden.
+  reset: Löschen
